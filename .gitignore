@@ -1,0 +1,8 @@
+localhost.key
+localhost.crt
+*.exe
+node_modules
+firebase-config.js
+tmp
+static
+.idea

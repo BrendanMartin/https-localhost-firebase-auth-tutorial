@@ -1,0 +1,14 @@
+{
+  "name": "firebase-localhost",
+  "version": "1.0.0",
+  "scripts": {
+    "watch": "node build.js --watch",
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  },
+  "dependencies": {
+    "firebase": "^11.4.0"
+  }
+}
